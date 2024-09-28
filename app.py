@@ -6,3 +6,4 @@ st.title('🤖 Machine Learning App')
 st.info('This is my Machine Learning App')
 
 with st.expander('Data'):
+  st.write(**Raw data**)
